@@ -1,0 +1,44 @@
+p {
+	font-family: "Arial", sans-serif;
+	text-align: justify;
+}
+
+body {
+	background-image:url(../imagens/fundo.png);
+
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+h1 {
+	font-family: "Times New Roman", sans-serif;
+	color: #32CD32;
+	size: 28px
+}
+
+h2 {
+	font-family: "Times New Roman", sans-serif;
+	color: #32CD32;
+	size: 24px
+}
+
+blockquote {
+	font-family: "Arial", sans-serif;
+	text-align: justify;
+}
+
+img {
+	border: 4px solid #32CD32;
+}
+
+table{
+	border-collapse:collapse;
+}
+
+td,th {
+	font-family: "Arial", sans-serif;
+	border: 2px solid #CDC5BF;
+	text-align: center;
+	border-collapse:collapse;
+}
+
